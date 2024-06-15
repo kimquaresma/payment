@@ -1,0 +1,36 @@
+body{
+  background-color: #f2f4f6;
+
+}
+.inner {
+  /* width: 730px; */
+  height: 100%;
+  margin: 0 auto;
+}
+
+.header{
+  background: #fff;
+  margin-bottom: 10px;
+  padding: 0 20px;
+}
+.main{
+  background: #fff;
+  padding: 0 20px;
+}
+.footer .footer_inner{
+  background: #fff;
+  padding: 0 20px;
+}
+
+.header_bot{
+  display: flex;
+  height: 54px;
+  width: 100%;
+  align-items: center;
+  background: #fff;
+  justify-content: space-between;
+}
+
+.footer_inner{
+  /* padding: 0 20px; */
+}
